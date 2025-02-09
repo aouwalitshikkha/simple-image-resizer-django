@@ -47,7 +47,7 @@ This is a simple image resizer application built with Django.
 
 ## Screenshots
 
-![Website Screenshot](website.jpg)
+![Website Screenshot](websites.jpg)
 
 ## Project Structure
 
