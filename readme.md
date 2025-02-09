@@ -45,6 +45,10 @@ This is a simple image resizer application built with Django.
 3. Click the "Resize" button to resize the image.
 4. Download the resized image.
 
+## Screenshots
+
+![Website Screenshot](website.jpg)
+
 ## Project Structure
 
 - `simple_image_resizer/`: Main Django application directory.
